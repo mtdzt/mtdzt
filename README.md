@@ -1,2 +1,2 @@
 - 👋 Meu nome é @mtdzt
-- 👀 Estudante de programação.
+- 👀 Desenvolvedor Back-end
